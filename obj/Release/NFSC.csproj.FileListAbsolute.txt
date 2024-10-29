@@ -1,0 +1,6 @@
+C:\GitUltrasoftPadrao\NFSC\bin\Release\NFSC.dll
+C:\GitUltrasoftPadrao\NFSC\bin\Release\NFSC.pdb
+C:\GitUltrasoftPadrao\NFSC\obj\Release\NFSC.csproj.AssemblyReference.cache
+C:\GitUltrasoftPadrao\NFSC\obj\Release\NFSC.csproj.CoreCompileInputs.cache
+C:\GitUltrasoftPadrao\NFSC\obj\Release\NFSC.dll
+C:\GitUltrasoftPadrao\NFSC\obj\Release\NFSC.pdb
